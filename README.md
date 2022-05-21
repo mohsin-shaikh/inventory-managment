@@ -106,7 +106,7 @@ Hope this would help. Please let me know if you need further information on each
 - id
 - manufacturer_name
 
-- ## Stock
+- ### Stock
 - id
 - product_id
 - warehouse_id, zone_id, level_id, rack_id etc.
