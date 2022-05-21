@@ -1,7 +1,6 @@
 # Inventory Management System
 
 This is a model which supports many aspects,
-
 Supports Sites, Locations and Warehouses etc.
 Supports Categorization and Grouping
 Support Generic Product (Ex. "Table Clock" and specific product "Citizen C123 Multi Alarm Clock" )
@@ -13,7 +12,6 @@ Pack Size / UOM and UOM Conversion
 Manufacturer and Brands as well as Suppliers
 Also included example transaction table (Purchase order)
 There are many other transaction types such as Issues, Transfers, Adjustments etc.
-Hope this would help. Please let me know if you need further information on each table.
 
 ### Sites
 - id
