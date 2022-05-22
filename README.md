@@ -110,7 +110,8 @@ There are many other transaction types such as Issues, Transfers, Adjustments et
 - warehouse_id, zone_id, level_id, rack_id etc.
 - quantity in hand
 - product attribute value id (if applicable) [we have 4 red color items etc.]
-- Product Price Records
+
+### Product Price Records
 - product_id
 - from_date
 - product_price
